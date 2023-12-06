@@ -48,8 +48,9 @@ while counter < 50:
     else:
         print(counter)
 
-#In Python these symbol are consider the official comparising operator: == < > >= <= !=. So
-# Can I consider this string method to be a comparison operators too (startswith and endswith)?
+#Question: In Python these symbol are consider the official comparising operators: == < > >= <= !=. So
+# Can I consider this string method to be a comparison operators too (startswith and endswith) that is
+# being use in the print statement?
 
 first_name = "Spencer"
 last_name = "Cooper"
