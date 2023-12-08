@@ -12,8 +12,6 @@ for names in search:
 # Question write a program that takes in an aray of integers and print out each
 # integer squared to the second power)
 
-
-#def print_squared(numbers):
 numbers = [1, 2, 3, 4, 5]
 for number in numbers:
     square = number ** 2
